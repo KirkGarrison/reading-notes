@@ -13,7 +13,7 @@
 ### This is a heading 3
 
 ```
-def new_func ():
+def new_func():
 print('hello World')
 ```
 >THis is quote from someone
