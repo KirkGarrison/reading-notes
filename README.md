@@ -14,6 +14,6 @@
 
 ```python
 def new_func():
-print('hello World')
+print('Hello World')
 ```
 >This is quote from someone
