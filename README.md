@@ -16,4 +16,4 @@
 def new_func():
 print('hello World')
 ```
->THis is quote from someone
+>This is quote from someone
