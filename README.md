@@ -12,7 +12,7 @@
 ## This is a Heading 2
 ### This is a heading 3
 
-```
+```python
 def new_func():
 print('hello World')
 ```
