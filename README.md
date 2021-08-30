@@ -13,10 +13,7 @@ Hello, I'm Kirk, a software dev in Mount Vernon, WA. Here is the Link to my gith
 ## This is a Heading 2
 ### This is a heading 3
 
-```python
-def new_func():
-print('Do what you can, with what you have, where you are.')
-```
+*Do what you can, with what you have, where you are.*
 > Theodore Roosevelt
 
 ## Growth Mindset to me means
