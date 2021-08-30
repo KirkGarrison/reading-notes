@@ -19,5 +19,5 @@ Hello, I'm Kirk, a software dev in Mount Vernon, WA. Here is the Link to my gith
 ## Growth Mindset to me means
 Being open to learning, and all the successes and failures that come along with it. 
 1. Stay positive, even when you receive criticism or hit a wall.
-2. Don't summarize your intelligence by the ease, nor the difficulty of this class or project.
+2. Don't summarize your intelligence by the ease, nor the difficulty of a challenge you face.
 3. Hard work and focus will always triumph over raw talent.
