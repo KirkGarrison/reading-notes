@@ -10,14 +10,14 @@ Hello, I'm Kirk, a software dev in Mount Vernon, WA. Here is the Link to my gith
 - Reading 7
 - Reading 8
 
-## This is a Heading 2
-### This is a heading 3
+## This is a awesome Heading 2
+### This is a awesome heading 3
 
-*Do what you can, with what you have, where you are.*
-> Theodore Roosevelt
+*The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.*
+> Arnold Schwarzenegger
 
 ## Growth Mindset to me means
-It means xxxxxxxx
-1. This
-2. This
-3. This
+Being open to learning, and all the successes and failures that come along with it. 
+1. Stay positive, even when you receive criticism or hit a wall.
+2. Don't summarize your intelligence by the ease, nor the difficulty of this class or project.
+3. Hard work and focus will always triumph over raw talent.
