@@ -1,17 +1,7 @@
 # Intro
 Hello, I'm Kirk, a software dev in Mount Vernon, WA. Here is the Link to my github portfolio https://github.com/KirkGarrison
 
-- Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
-- Reading 6
-- Reading 7
-- Reading 8
-
-## This is a awesome Heading 2
-### This is a awesome heading 3
+### Inspirational quote;
 
 *The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.*
 > Arnold Schwarzenegger
