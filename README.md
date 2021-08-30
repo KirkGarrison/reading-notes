@@ -1,4 +1,6 @@
-# Code 102 reading
+# Intro
+Hello, I'm Kirk, a software dev in Mount Vernon, WA. Here is the Link to my github portfolio
+Code 102 reading
 
 - Reading 1
 - Reading 2
@@ -16,4 +18,10 @@
 def new_func():
 print('Hello World')
 ```
->This is quote from someone
+> This is quote from someone
+
+## Growth Mindset to me means
+It means xxxxxxxx
+1. This
+2. This
+3. This
