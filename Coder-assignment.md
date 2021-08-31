@@ -25,4 +25,9 @@ code = opens up VS code
 mkdir = make directory
 cp = copy (file or directory)
 mv = move (file or directory)
+git clone + link
+git add file_name (add . for add all)
+git commit -m "add notes here"
+git push origin main
+git status (status check after every step)
 ```
