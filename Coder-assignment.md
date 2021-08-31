@@ -17,7 +17,7 @@ ls = list
 
 cd = change directory
 
-~ (tilde) = home directory
+cd ~ (tilde) = home directory
 
 ls -a = list all contents of directory
 
