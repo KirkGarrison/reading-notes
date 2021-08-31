@@ -14,16 +14,11 @@ Shortcuts:
 PWD = Print Working Directory
 
 ls = list
-
-cd = change directory
-
-cd ~ (tilde) = home directory
-
 ls -a = list all contents of directory
-
+cd = change directory
+cd ~ (tilde) = home directory
+code = opens up VS code
 mkdir = make directory
-
 cp = copy (file or directory)
-
 mv = move (file or directory)
 ```
