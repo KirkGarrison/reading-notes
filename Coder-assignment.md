@@ -10,8 +10,9 @@ Things like syntax highlighters (highlights certain words to make it more readab
 googles auto-fill sentences when you start typing in google). Which assists in enabling faster, and more accurate coding.
 
 Shortcuts:
-PWD = Print Working Directory
 ```
+PWD = Print Working Directory
+
 ls = list
 
 cd = change directory
