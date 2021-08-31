@@ -1,7 +1,7 @@
 Word editors are programs designed to assist people with saving and writing things down.
 Today we are focusing on two different types of word editors:
-> Writing editors
-> Code editors
+* Writing editors
+* Code editors
 Although both of these can be called *word editors*, they have different functions.
 A word editor used for writing, would be something like Microsoft word, or Google docs. It has easy access features for writing
 such as italics, bold, underline, font adjustment, etc..
