@@ -1,3 +1,7 @@
+## Word editors
+
+[Back page](README.md)
+
 Word editors are programs designed to assist people with saving and writing things down.
 Today we are focusing on two different types of word editors:
 * Writing editors
