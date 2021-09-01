@@ -6,7 +6,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [Git](Revisions.md)
 - [HTML](HTML.md)
 - [CSS](css.md)
-- Reading 6
+- [JavaScript](javascript.md)
 - Reading 7
 - Reading 8
 - [Growth Mindset](growth-mindset.md)
