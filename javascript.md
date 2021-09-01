@@ -9,4 +9,7 @@ The website asks for your name, email, etc. And after the user inputs their name
 
 Javascript code examples:
 ```
+var x = 5, y = 10, total = x + y;
+
 ```
+If you type "total," the result would now display 15
