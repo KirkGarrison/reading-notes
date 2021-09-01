@@ -5,7 +5,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [Word editors](Coder-assignment.md)
 - [Git](Revisions.md)
 - [HTML](HTML.md)
-- Reading 5
+- [CSS](css.md)
 - Reading 6
 - Reading 7
 - Reading 8
