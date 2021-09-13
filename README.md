@@ -1,16 +1,22 @@
-# Intro
+## Code 201 reading notes
+
 Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to my [Github portfolio](https://github.com/KirkGarrison)
 
-- [Markdown](markdown.md)
-- [Word editors](Coder-assignment.md)
-- [Git](Revisions.md)
-- [HTML](HTML.md)
-- [CSS](css.md)
-- [JavaScript](javascript.md)
-- [Javascript functions](jsfunctions.md)
-- [JavaScript Loops](jsloops.md)
-- [Growth Mindset](growth-mindset.md)
+[Code 102 reading notes](102-notes.md)
 
-*The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.*
-> ~Arnold Schwarzenegger
 
+- Reading Assignment 1
+- Reading Assignment 2
+- Reading Assignment 3
+- Reading Assignment 4
+- Reading Assignment 5
+- Reading Assignment 6
+- Reading Assignment 7
+- Reading Assignment 8
+- Reading Assignment 9
+- Reading Assignment 10
+- Reading Assignment 11
+- Reading Assignment 12
+- Reading Assignment 13
+- Reading Assignment 14
+- Reading Assignment 15
