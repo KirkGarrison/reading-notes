@@ -18,9 +18,16 @@ Summaries to input:
 
 - HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
+    This chapter showcases the evolution of HTML and some of the changes that have come with the new HTML5 layout. You learn how to structure a page layout with the new HTML5 verbiage, and how the tags are used.
+
 - HTML Chapter 18: “Process & Design” (pp.452-475)
 
+    This chapter explains the process behind creating a website. It gives an example of how to approach deciding what kind of website you want to build, as well as giving examples of wireframes and the layout sturcture.
 
 - JS Introduction
 
+    The introduction of the book explains basic concepts of JavaScript's usage, and provides some examples of Javascript on webpages. It also provides a basic example of JS code and attributes.
+
 - JS Chapter 1: “The ABC of Programming” (pp.11-52)
+
+    This chapter covers the process of how to write a "script". First by defining the objective, then how to execute that objective from a goal to a functioning code.
