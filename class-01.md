@@ -1,4 +1,4 @@
-Summaries to input:
+## Summaries of reading assignment
 
 [Back Page](README.md)
 
