@@ -4,7 +4,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 
 [Code 102 reading notes](102-notes.md)
 
-
+[Reading summaries](class-01.md)
 - Reading Assignment 1
 - Reading Assignment 2
 - Reading Assignment 3
