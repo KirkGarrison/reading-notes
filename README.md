@@ -5,7 +5,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 [Code 102 reading notes](102-notes.md)
 
 - [Basics of HTML, CSS & JS](class-02.md)
-- Reading Assignment 2
+- [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 - Reading Assignment 3
 - Reading Assignment 4
 - Reading Assignment 5
