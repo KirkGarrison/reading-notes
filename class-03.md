@@ -21,3 +21,4 @@ This section of chapter 2 specifically talks about arrays. How to assign one, ho
 
 Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
 
+This chapter focuses on Loops, Arrays, and conditonals. It demonstrates how the different loops function, and which type is good for which situation. It also discusses using an array inside of a loop.
