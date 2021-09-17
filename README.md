@@ -6,7 +6,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 
 - [Basics of HTML, CSS & JS](class-02.md)
 - [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
-- Reading Assignment 3
+- [HTML Links](class-04.md)
 - Reading Assignment 4
 - Reading Assignment 5
 - Reading Assignment 6
