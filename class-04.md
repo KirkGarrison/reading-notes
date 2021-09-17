@@ -13,3 +13,7 @@ Chapter 15: “Layout” (pp.358-404)
 
 Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
     The first part of this chapter teaches about functions. It explains the different types and uses they have, and when they can be used. It also explains how global vs local variables work.
+
+     
+6 Reasons for Pair Programming
+    This article explains the concept and execution of Pair Programming. A technique used to improve your coding efficiency, and develop good team work methodology. 
