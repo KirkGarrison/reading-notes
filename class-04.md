@@ -1,4 +1,4 @@
-## HTML Links
+## HTML Links, CSS Layout, JS Functions
 
 [Back page](README.md)
 
