@@ -8,7 +8,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 - [HTML Links, CSS Layout, JS Functions](class-04.md)
 - [HTML Images; CSS Color & Text](class-05.md)
-- Reading Assignment 5
+- [Problem Domain, Objects, and the DOM](class-06.md)
 - Reading Assignment 6
 - Reading Assignment 7
 - Reading Assignment 8
