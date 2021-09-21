@@ -9,7 +9,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [HTML Links, CSS Layout, JS Functions](class-04.md)
 - [HTML Images; CSS Color & Text](class-05.md)
 - [Problem Domain, Objects, and the DOM](class-06.md)
-- Reading Assignment 6
+- [Object-Oriented Programming, HTML Tables](class-07.md)
 - Reading Assignment 7
 - Reading Assignment 8
 - Reading Assignment 9
