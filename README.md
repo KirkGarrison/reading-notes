@@ -11,7 +11,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [Problem Domain, Objects, and the DOM](class-06.md)
 - [Object-Oriented Programming, HTML Tables](class-07.md)
 - [CSS layout](class-08.md)
-- Reading Assignment 8
+- [Forms and JS Events](class-09.md)
 - Reading Assignment 9
 - Reading Assignment 10
 - Reading Assignment 11
