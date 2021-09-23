@@ -22,4 +22,4 @@ such as when a page has finished loading or a button has been clicked on.
 Binding is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen upon.
 When an event occurs in an element, it can trigger a JS function.
 That function changes the web page in some way and it feels interactive because it is responding to the user.
-Event flow is the order in which the events fire off. Event Bubbling is when the events starts at a specific node and flows outwards to the least specific one. This is the default for most browers.
+Event flow is the order in which the events fire off. Event Bubbling is when the events starts at a specific node and flows outwards to the least specific one. This is the default for most browsers.
