@@ -16,5 +16,5 @@ From the Duckett JS book:
     Eval Context is text that is executed like code in an internal function called `eval()`
     Variable Scope is when the first two execution contexts correspond with scope.
     Global Scope is when a variable is declared outside a function and can be used anywhere because it has global scope. If you do not use the var keyword when creating a variable, it is placed in global scope
-    Function-Level Scope is when a variable is declared inside of a function and can only be used within that funciton.
+    Function-Level Scope is when a variable is declared inside of a function and can only be used within that function.
     
