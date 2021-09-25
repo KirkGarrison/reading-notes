@@ -13,7 +13,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [CSS layout](class-08.md)
 - [Forms and JS Events](class-09.md)
 - [Error Handling & Debugging](class-10.md)
-- Reading Assignment 10
+- [Audio, Video, Images](class-11.md)
 - Reading Assignment 11
 - Reading Assignment 12
 - Reading Assignment 13
