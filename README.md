@@ -15,7 +15,7 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [Error Handling & Debugging](class-10.md)
 - [Audio, Video, Images](class-11.md)
 - [Charts.js, Canvas](class-12.md)
-- Reading Assignment 12
+- [Local storage](class-13.md)
 - Reading Assignment 13
 - Reading Assignment 14
 - Reading Assignment 15
