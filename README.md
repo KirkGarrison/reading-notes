@@ -16,8 +16,8 @@ Hello, I'm Kirk, a software developer in Mount Vernon, WA. Here is the Link to m
 - [Audio, Video, Images](class-11.md)
 - [Charts.js, Canvas](class-12.md)
 - [Local storage](class-13.md)
-- Reading Assignment 13
-- Reading Assignment 14
+- [CSS Transforms, Transitions, and Animations](class-14.md)
+- [ What Google Learned About Teams](class-14b.md)
 - Reading Assignment 15
 
 - [Reading summaries](class-01.md)
