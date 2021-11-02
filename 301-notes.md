@@ -8,3 +8,4 @@ Code 301 Reading Notes
 - [React and Forms](301-Class-04.md)
 - [Thinking in React & Higher-Order Functions](301-Class-05.md)
 - [Node.js](301-Class-06.md)
+- [REST](301-Class-07.md)
