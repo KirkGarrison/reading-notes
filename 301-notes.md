@@ -9,3 +9,4 @@ Code 301 Reading Notes
 - [Thinking in React & Higher-Order Functions](301-Class-05.md)
 - [Node.js](301-Class-06.md)
 - [REST](301-Class-07.md)
+- [RESTful web API design](301-Class-08.md)
