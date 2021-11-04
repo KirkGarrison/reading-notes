@@ -10,3 +10,4 @@ Code 301 Reading Notes
 - [Node.js](301-Class-06.md)
 - [REST](301-Class-07.md)
 - [RESTful web API design](301-Class-08.md)
+- [Functional Programming](301-class-09.md)
