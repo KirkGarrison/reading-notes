@@ -11,3 +11,4 @@ Code 301 Reading Notes
 - [REST](301-Class-07.md)
 - [RESTful web API design](301-Class-08.md)
 - [Functional Programming](301-class-09.md)
+- [JavaScript call Stack and memory storage](301-Class-10.md)
