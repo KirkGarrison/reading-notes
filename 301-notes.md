@@ -14,3 +14,4 @@ Code 301 Reading Notes
 - [JavaScript call Stack and memory storage](301-notes/301-Class-10.md)
 - [Mongo & Mongoose](301-notes/301-Class-11.md)
 - [CRUD](301-notes/301-Class-12.md)
+- [Diversity & Inclusion in the Tech Industry](301-notes/301-Class-13.md)
