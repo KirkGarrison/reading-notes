@@ -1,6 +1,6 @@
 # Basics of HTML, CSS & JS
 
-[Back page](README.md)
+[Back page](/201-notes.md)
 
 - Chapter 2: “Text” (pp.40-61)
     This chapter showcases the usage of text formatting within HTML. From Headings, to Paragraphs, to Bold and Italic, to Sub and Superscripts, to line-breaks and markups. 

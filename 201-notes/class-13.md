@@ -1,6 +1,6 @@
 ## Local storage
 
-[Back page](README.md)
+[Back page](/201-notes.md)
 
 This article explains the history of data storage, and how it started vs modern day availability. It talks about local and browser storage, cookies, and how these things can affect program speed.
 

@@ -1,6 +1,6 @@
 ## JavaScript Functions
 
-[Back page](README.md)
+[Back page](/102-notes.md)
 
 - Javascript has what's called a "control flow," which means it reads and executes code from right to left, top to bottom.
 

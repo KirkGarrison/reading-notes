@@ -1,6 +1,6 @@
 ## Markdown
 
-[Back page](README.md)
+[Back page](/102-notes.md)
 
 Markdown is essentially a translator. It assists the user by simplifying how to create what you want on a webpage. For example, in HTML where you might write 
 ```

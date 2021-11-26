@@ -1,6 +1,6 @@
 ## JavaScript
 
-[Back page](README.md)
+[Back page](/102-notes.md)
 
 JavaScript is a programming tool used to make websites interactive.
 It allows the coder to assign variables that react to user interaction.

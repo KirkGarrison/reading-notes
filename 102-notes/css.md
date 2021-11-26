@@ -1,6 +1,6 @@
 ## CSS
 
-[Back page](README.md)
+[Back page](/102-notes.md)
 
 CSS (Cascading Style Sheets) is a tool popularly used for styling and improving the visual appearance of a website. You can change background colors, font colors, add borders, change border colors, and much more. 
 

@@ -1,6 +1,6 @@
 ## HTML Images; CSS Color & Text
 
-[Back page](README.md)
+[Back page](/201-notes.md)
 
 Chapter 5: “Images” (pp.94-125)
     This chapter explains how to use images in your HTML page.

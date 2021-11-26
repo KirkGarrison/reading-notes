@@ -1,6 +1,6 @@
 ## JavaScript looping notes
 
-[Back page](README.md)
+[Back page](/102-notes.md)
 
 - Looping is a coding function that allows the programmer to create a looping interaction with the user.
 

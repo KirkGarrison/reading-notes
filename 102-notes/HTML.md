@@ -1,6 +1,6 @@
 ## HTML notes
 
-[Back page](README.md)
+[Back page](/102-notes.md)
 
 HTML is a website structuring tool that allows the user to
 create the frame of a web page (called a WireFrame).

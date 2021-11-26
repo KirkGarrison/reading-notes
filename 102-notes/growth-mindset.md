@@ -1,6 +1,6 @@
 ## Growth Mindset
 
-[Back page](README.md)
+[Back page](/102-notes.md)
 
 *Being open to learning, and all the successes and failures that come along with it.*
 

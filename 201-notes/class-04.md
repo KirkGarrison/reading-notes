@@ -1,6 +1,6 @@
 ## HTML Links, CSS Layout, JS Functions
 
-[Back page](README.md)
+[Back page](/201-notes.md)
 
 
 Chapter 4: Ch.4 “Links” (pp.74-93)
