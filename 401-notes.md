@@ -5,4 +5,5 @@ Code 401 Reading Notes
 - [Growth Mindset](401-notes/401-Class0.md)
 - [Big O](401-notes/401-Class01.md)
 - [Testing & Modules](401-notes/401-Class02.md)
-- [FileIO & Exceptions](401-notes/401-Class-03.md)
+- [FileIO & Exceptions](401-notes/401-Class03.md)
+- [Classes & Objects](401-notes/401-Class04.md)
