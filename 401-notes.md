@@ -7,3 +7,4 @@ Code 401 Reading Notes
 - [Testing & Modules](401-notes/401-Class02.md)
 - [FileIO & Exceptions](401-notes/401-Class03.md)
 - [Classes & Objects](401-notes/401-Class04.md)
+- [Game of Greed](401-notes/Class-Class05.md)
