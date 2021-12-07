@@ -8,3 +8,4 @@ Code 401 Reading Notes
 - [FileIO & Exceptions](401-notes/401-Class03.md)
 - [Classes & Objects](401-notes/401-Class04.md)
 - [Game of Greed](401-notes/Class-Class05.md)
+- [Game of Greed II](401-notes/401-Class06.md)
