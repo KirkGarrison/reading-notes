@@ -12,3 +12,4 @@ Code 401 Reading Notes
 - [Game of Greed III](401-notes/401-Class07.md)
 - [Dunder methods](401-notes/401-Class08.md)
 - [Jupyter and Numpy arrays](401-notes/401-Class11.md)
+- [Pandas](401-notes/401-Class12.md)
