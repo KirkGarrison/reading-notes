@@ -15,3 +15,4 @@ Code 401 Reading Notes
 - [Pandas](401-notes/401-Class12.md)
 401-Class11.md)
 - [Linear Regression](401-notes/401-Class13.md)
+- [Matplotlib](401-notes/401-Class14.md)
