@@ -16,3 +16,4 @@ Code 401 Reading Notes
 - [Linear Regression](401-notes/401-Class13.md)
 - [Matplotlib](401-notes/401-Class14.md)
 - [Serverless](401-notes/401-Class16.md)
+- [Web Scraping](401-notes/401-Class17.md)
