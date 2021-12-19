@@ -13,6 +13,6 @@ Code 401 Reading Notes
 - [Dunder methods](401-notes/401-Class08.md)
 - [Jupyter and Numpy arrays](401-notes/401-Class11.md)
 - [Pandas](401-notes/401-Class12.md)
-401-Class11.md)
 - [Linear Regression](401-notes/401-Class13.md)
 - [Matplotlib](401-notes/401-Class14.md)
+- [Serverless](401-notes/401-Class16.md)
