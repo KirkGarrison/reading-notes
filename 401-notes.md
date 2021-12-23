@@ -18,3 +18,4 @@ Code 401 Reading Notes
 - [Serverless](401-notes/401-Class16.md)
 - [Web Scraping](401-notes/401-Class17.md)
 - [Cryptography](401-notes/401-Class18.md)
+- [Regex in Python](401-notes/401-Class19.md)
