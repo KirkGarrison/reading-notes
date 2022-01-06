@@ -20,3 +20,4 @@ Code 401 Reading Notes
 - [Cryptography](401-notes/401-Class18.md)
 - [Regex in Python](401-notes/401-Class19.md)
 - [Django](401-notes/401-Class26.md)
+- [Django Models](401-notes/401-Class27.md)
