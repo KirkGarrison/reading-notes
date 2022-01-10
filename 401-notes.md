@@ -22,3 +22,4 @@ Code 401 Reading Notes
 - [Django](401-notes/401-Class26.md)
 - [Django Models](401-notes/401-Class27.md)
 - [Django Forms](401-notes/401-Class28.md)
+- [Django Custom User](401-notes/401-Class29.md)
