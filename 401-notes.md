@@ -24,3 +24,4 @@ Code 401 Reading Notes
 - [Django Forms](401-notes/401-Class28.md)
 - [Django Custom User](401-notes/401-Class29.md)
 - [Docker](401-notes/401-Class31.md)
+- [Django REST frameworks](401-notes/401-Class32.md)
