@@ -25,3 +25,4 @@ Code 401 Reading Notes
 - [Django Custom User](401-notes/401-Class29.md)
 - [Docker](401-notes/401-Class31.md)
 - [Django REST frameworks](401-notes/401-Class32.md)
+- [JWT with drf](401-notes/401-Class33.md)
