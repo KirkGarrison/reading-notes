@@ -26,3 +26,4 @@ Code 401 Reading Notes
 - [Docker](401-notes/401-Class31.md)
 - [Django REST frameworks](401-notes/401-Class32.md)
 - [JWT with drf](401-notes/401-Class33.md)
+- [Django API deployment](401-notes/401-Class34.md)
