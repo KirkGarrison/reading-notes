@@ -27,3 +27,5 @@ Code 401 Reading Notes
 - [Django REST frameworks](401-notes/401-Class32.md)
 - [JWT with drf](401-notes/401-Class33.md)
 - [Django API deployment](401-notes/401-Class34.md)
+- [WhiteBoard Interview Tips](401-notes/401-Class36.md)
+
