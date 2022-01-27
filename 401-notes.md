@@ -31,4 +31,5 @@ Code 401 Reading Notes
 - [ES6, React, Tailwind, Next.js](401-notes/401-Class37.md)
 - [React Context](401-notes/401-Class38.md)
 - [Next.js Dynamic Routes and Deployment](401-notes/401-Class41.md)
+- [Python Generators](401-notes/401-Class42.md)
 
